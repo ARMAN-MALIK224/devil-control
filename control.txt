@@ -1,1 +1,2 @@
-RJ-07-MR-SHARABI-ON-TABAHI
+enabled=true
+password=RJ-07-MR-SHARABI-ON-TABAHT
